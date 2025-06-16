@@ -93,3 +93,12 @@ GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. 
 
 ##
 <div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
+
+
+## 🚀 Minha Contribuição
+
+💻 **Nome:** Fábio Enzo Araujo Barbpsa
+📅 **Data:** 16/06/2025  
+
+📝 **O que eu fiz:**  
+- Adicionei essa seção de contribuição no README como parte do desafio da DIO.
